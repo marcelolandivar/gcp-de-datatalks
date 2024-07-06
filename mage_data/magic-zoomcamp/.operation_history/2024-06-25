@@ -1,0 +1,3 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "test_config"}, "timestamp": 1719326223, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "stellar_sound"}, "timestamp": 1719327186, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "gcs_to_bigquery"}, "timestamp": 1719329418, "user": null}
